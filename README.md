@@ -4,7 +4,7 @@
 ## Important information:
 - If you want to run the project at localhost first you have to create a Database and then import demo.sql file
 - Change the file config.php with your Database credentials
-- The username for the login is "admin" and the password is "admin123"
+- The username for login in the admin panel is "admin" and the password is "admin123"
  
 ## Author
 Guido Ezequiel Rosman
