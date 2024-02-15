@@ -1,0 +1,1 @@
+To run the function every two hours I need a Cron Job where I insert the script I want to execute and the frequency.
